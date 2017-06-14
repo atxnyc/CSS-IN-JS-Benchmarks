@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "benchmarks-utils": "1.0.0",
-    "@threepointone/glam": "1.0.6"
+    "glam": "^4.0.5"
   },
   "devDependencies": {
     "dev-tasks": "1.0.0"

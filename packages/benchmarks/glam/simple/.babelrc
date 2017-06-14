@@ -1,7 +1,7 @@
 {
   "plugins": [
     "transform-class-properties",
-    "@threepointone/glam/babel"
+    "glam/babel"
   ],
   "presets": [
     ["es2015", { "modules": false }],

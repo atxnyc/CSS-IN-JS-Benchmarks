@@ -1,5 +1,5 @@
 import React from 'react';
-import css from '@threepointone/glam';
+import css from 'glam';
 
 const tableClass = css`
   display: table;
