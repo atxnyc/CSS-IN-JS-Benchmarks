@@ -1,5 +1,6 @@
 import React from 'react';
 import css from 'glam';
+import './Table.js.css';
 
 const tableClass = css`
   display: table;
