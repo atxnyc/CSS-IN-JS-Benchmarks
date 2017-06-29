@@ -11,7 +11,7 @@ Solution | Use CSS | Use Inline-Styles | Mount Time (ms) | Rerender time (ms)
 [styled-jss-w-o-plugins](https://github.com/cssinjs/styled-jss) | + | - | 89.94 | 79.07
 [styled-components-v1-inline-styles](https://github.com/styled-components/styled-components) | + | + | 79.93 | 83.8
 [styled-components-v2-inline-styles](https://github.com/styled-components/styled-components/tree/v2) | + | + | 81.87 | 85.16
-[emotion-inline-mode](https://github.com/tkh44/emotion) | + | + | 68.21 | 85.62
+[emotion-inline-mode](https://github.com/tkh44/emotion) | + | - | 68.21 | 85.62
 [emotion-simple](https://github.com/threepointone/emotion) | + | - | 64.95 | 86.43
 [styled-jss](https://github.com/cssinjs/styled-jss) | + | - | 119.61 | 90.87
 [styled-components-v2-plugin-inline-styles](https://github.com/styled-components/styled-components/tree/v2) | + | + | 91.6 | 91.01
