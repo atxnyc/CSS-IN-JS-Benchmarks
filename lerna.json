@@ -4,10 +4,6 @@
     "packages/tests",
     "packages/benchmarks-utils",
     "packages/dev-tasks",
-    "packages/benchmarks/fela",
-    "packages/benchmarks/rockey/rockey",
-    "packages/benchmarks/rockey/rockey-inline",
-    "packages/benchmarks/rockey/rockey-speedy",
     "packages/benchmarks/styled-jss/styled-jss",
     "packages/benchmarks/styled-jss/w-o-plugins",
     "packages/benchmarks/styled-components/v1/decouple-cell",
@@ -21,16 +17,14 @@
     "packages/benchmarks/styled-components/v2-plugin/simple",
     "packages/benchmarks/aphrodite",
     "packages/benchmarks/cxs",
-    "packages/benchmarks/glam/inline-style",
-    "packages/benchmarks/glam/simple",
+    "packages/benchmarks/emotion/css-mode",
+    "packages/benchmarks/emotion/inline-mode",
+    "packages/benchmarks/emotion/simple",
     "packages/benchmarks/glamorous/dynamic-styles",
     "packages/benchmarks/glamorous/glamor-css",
-    "packages/benchmarks/radium",
     "packages/benchmarks/react",
-    "packages/benchmarks/react-css",
     "packages/benchmarks/react-jss",
-    "packages/benchmarks/styled-jsx",
-    "packages/benchmarks/styletron"
+    "packages/benchmarks/styled-jsx"
   ],
   "version": "1.0.0"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "table-emotion-simple-big-table",
+  "name": "table-emotion-css-mode-big-table",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "devServer --package emotion/simple",
-    "build": "devBuild --package emotion/simple"
+    "start": "devServer --package emotion/css-mode",
+    "build": "devBuild --package emotion/css-mode"
   },
   "license": "MIT",
   "dependencies": {
@@ -15,8 +15,9 @@
     "dev-tasks": "1.0.0"
   },
   "benchmarks": {
-    "name": "emotion-simple",
+    "name": "emotion-css-mode",
+    "useInlineStyles": true,
     "useCSS": true,
-    "link": "https://github.com/threepointone/emotion"
+    "link": "https://github.com/tkh44/emotion"
   }
 }

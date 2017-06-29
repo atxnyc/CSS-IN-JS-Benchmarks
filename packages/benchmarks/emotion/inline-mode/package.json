@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "devServer --package glam/inline-style",
-    "build": "devBuild --package glam/inline-style"
+    "start": "devServer --package emotion/inline-mode",
+    "build": "devBuild --package emotion/inline-mode"
   },
   "license": "MIT",
   "dependencies": {
     "benchmarks-utils": "1.0.0",
-    "glam": "^4.0.5"
+    "emotion": "^4.1.4"
   },
   "devDependencies": {
     "dev-tasks": "1.0.0"
@@ -18,6 +18,6 @@
     "name": "emotion-inline-mode",
     "useInlineStyles": true,
     "useCSS": true,
-    "link": "https://github.com/threepointone/glam"
+    "link": "https://github.com/tkh44/emotion"
   }
 }
