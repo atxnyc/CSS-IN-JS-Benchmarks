@@ -1,3 +1,4 @@
+import './Table.js.css';
 import React from 'react';
 import { styled } from 'emotion';
 
@@ -15,7 +16,9 @@ const CellDefault = styled.div`
   padding: 10px;
 `;
 
-const Cell = styled(CellDefault)`
+const Cell = styled('div')`
+  display: table-cell;
+  padding: 10px;
    background: rgba(74, 174, 53, ${props => props.value});
 `;
 
